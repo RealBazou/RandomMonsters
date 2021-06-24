@@ -1,0 +1,2 @@
+RandomMonsters/&FancySkeletonTitle	Fancy Skeleton
+RandomMonsters/&FancySkeletonDescription	I'm a fancy skeleton

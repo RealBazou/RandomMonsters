@@ -1,0 +1,13 @@
+{
+	"Id": "RandomMonsters",
+	"DisplayName": "RandomMonsters",
+	"Author": "RealBazou",
+	"Version": "0.0.1",
+	"ManagerVersion": "0.23.4",
+	"Requirements": [ "SolastaModApi" ],
+	"LoadAfter": [ "SolastaModApi" ],
+	"AssemblyName": "RandomMonsters.dll",
+	"EntryMethod": "RandomMonsters.Main.Load",
+	"Repository": "https://raw.githubusercontent.com/RealBazou/RandomMonsters/main/RandomMonsters/Repository.json",
+	"HomePage": "https://www.nexusmods.com/solastacrownofthemagister/mods/##"
+}
